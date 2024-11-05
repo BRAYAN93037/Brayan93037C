@@ -2,7 +2,7 @@
 using namespace std;
 
 void merge(int arr[], int left, int mid, int right) {
-    int L[50], R[50]; // Tamaño máximo asumido
+    int L[50], R[50]; // TamaÃ±o mÃ¡ximo asumido
     int n1 = mid - left + 1;
     int n2 = right - mid;
 
@@ -46,4 +46,6 @@ int main() {
 
     return 0;
 }
+// jasdghjhsgfjhfgjasgjhfsa;
+
 
